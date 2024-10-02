@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on generalization in computer vision and vision-language models.
 - 🌱 I’m currently learning robotics, including generalization in robot learning, vision language action models, and 3D techniques.
-- 🏫 I am a third-year Ph.D. student at Xi'an Jiaotong University.
+- 🏫 I am a third-year direct Ph.D. student at Xi'an Jiaotong University.
 
 <details>
   <summary>My GitHub Stats</summary>
