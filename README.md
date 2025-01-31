@@ -7,10 +7,11 @@
 <details>
   <summary>My GitHub Stats</summary>
   <be>
-    
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=BaiShuanghao&show_icons=true&hide_title=false&count_private=true&hide=issues" />
-</p>
+  
+<div align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=BaiShuanghao&show_icons=true&count_private=true&hide_border=true&show=prs_merged&rank_icon=github" align="center" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaiShuanghao&show_icons=true&count_private=true&layout=donut&hide_border=true" align="center" />
+</div>  
 
 </details>
 
