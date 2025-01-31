@@ -15,20 +15,26 @@
 
 </details>
 
+---
 
-<!--
-**BaiShuanghao/Bai-s-Welcome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+  <summary>Pinned</summary>
+  <be>
+  
+**Pinned (Generalization in Computer Vision)**
 
-Related source is copied from: https://github.com/yfzhang114/yfzhang114/tree/main
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BaiShuanghao&repo=Prompt-based-Distribution-Alignment&description_lines_count=2)](https://github.com/BaiShuanghao/Prompt-based-Distribution-Alignment)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BaiShuanghao&repo=CDFSC-MLP&description_lines_count=2)](https://github.com/BaiShuanghao/CDFSC-MLP)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renytek13&repo=Soft-Prompt-Generation&show_owner=true&description_lines_count=2)](https://github.com/renytek13/Soft-Prompt-Generation)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhanghr2001&repo=PromptTA&show_owner=true&description_lines_count=2)](https://github.com/zhanghr2001/PromptTA)
 
-Here are some ideas to get you started:
+**Pinned (Embodied AI)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BaiShuanghao&repo=Awesome-Robotics-Manipulation&show_owner=true&description_lines_count=2)](https://github.com/BaiShuanghao/Awesome-Robotics-Manipulation)
+
+
+**Pinned (Causal Learning in Machine Learning)**
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElleZWQ&repo=JRNGC&description_lines_count=2)](https://github.com/ElleZWQ/JRNGC)
+
+</details>
