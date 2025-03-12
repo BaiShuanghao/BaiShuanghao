@@ -1,7 +1,7 @@
 ### Hi there, nice to meet you! 👋 
 
 - 🔭 I’m currently working on generalization in computer vision and vision-language models.
-- 🌱 I’m currently learning robotics, including generalization in robot learning and vision language action models.
+- 🌱 I’m also working on robotics, including generalization in robot learning and vision language action models.
 - 🏫 I am a third-year direct Ph.D. student at Xi'an Jiaotong University.
 
 <details>
