@@ -29,6 +29,7 @@
 **Pinned (Embodied AI)**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BaiShuanghao&repo=Awesome-Robotics-Manipulation&show_owner=true&description_lines_count=2)](https://github.com/BaiShuanghao/Awesome-Robotics-Manipulation)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OpenHelix-robot&repo=awesome-dual-system-vla&show_owner=true&description_lines_count=2)](https://github.com/OpenHelix-robot/awesome-dual-system-vla)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BaiShuanghao&repo=BC-IB&show_owner=true&description_lines_count=2)](https://github.com/BaiShuanghao/BC-IB)
 
 
