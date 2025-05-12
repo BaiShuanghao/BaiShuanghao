@@ -26,15 +26,20 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renytek13&repo=Soft-Prompt-Generation&show_owner=true&description_lines_count=2)](https://github.com/renytek13/Soft-Prompt-Generation)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhanghr2001&repo=PromptTA&show_owner=true&description_lines_count=2)](https://github.com/zhanghr2001/PromptTA)
 
+
 **Pinned (Embodied AI)**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BaiShuanghao&repo=Awesome-Robotics-Manipulation&show_owner=true&description_lines_count=2)](https://github.com/BaiShuanghao/Awesome-Robotics-Manipulation)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OpenHelix-robot&repo=awesome-dual-system-vla&show_owner=true&description_lines_count=2)](https://github.com/OpenHelix-robot/awesome-dual-system-vla)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OpenHelix-robot&repo=OpenHelix&show_owner=true&description_lines_count=2)](https://github.com/OpenHelix-robot/OpenHelix)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BaiShuanghao&repo=BC-IB&show_owner=true&description_lines_count=2)](https://github.com/BaiShuanghao/BC-IB)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=whichwhichgone&repo=VLAS&show_owner=true&description_lines_count=2)](https://github.com/whichwhichgone/VLAS)
 
 
-**Pinned (Causal Learning in Machine Learning)**
+
+**Pinned (Causal Learning and Adversarial Learning in Machine Learning)**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElleZWQ&repo=JRNGC&description_lines_count=2)](https://github.com/ElleZWQ/JRNGC)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ellezwq&repo=mmcoa&description_lines_count=2)](https://github.com/ellezwq/mmcoa)
 
 </details>
