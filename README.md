@@ -4,7 +4,7 @@
 - 🌱 I’m also working on robotics, including generalization in robot learning and vision language action models.
 - 🏫 I am a 4th-year direct Ph.D. student at Xi'an Jiaotong University.
 
-<details>
+<!-- <details>
   <summary>My GitHub Stats</summary>
   <be>
   
@@ -13,7 +13,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaiShuanghao&show_icons=true&count_private=true&layout=donut&hide_border=true" align="center" />
 </div>  
 
-</details>
+</details> -->
 
 <details>
   <summary>Pinned</summary>
