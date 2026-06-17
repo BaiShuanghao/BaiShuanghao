@@ -30,8 +30,8 @@
 **Pinned (Embodied AI)**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BaiShuanghao&repo=Awesome-Robotics-Manipulation&show_owner=true&description_lines_count=2)](https://github.com/BaiShuanghao/Awesome-Robotics-Manipulation)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OpenHelix-robot&repo=VLA-TMEE&show_owner=true&description_lines_count=2)](https://github.com/OpenHelix-robot/OpenHelix)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cognition2Action-Lab&repo=BC-IB&show_owner=true&description_lines_count=2)](https://github.com/Cognition2Action-Lab/VLA-TMEE)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OpenHelix-Team&repo=OpenHelix&show_owner=true&description_lines_count=2)](https://github.com/OpenHelix-Team/OpenHelix)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cognition2Action-Lab&repo=VLA-TMEE&show_owner=true&description_lines_count=2)](https://github.com/Cognition2Action-Lab/VLA-TMEE)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhanghr2001&repo=VCoT-Grasp&show_owner=true&description_lines_count=2)](https://github.com/zhanghr2001/VCoT-Grasp)
 
 
